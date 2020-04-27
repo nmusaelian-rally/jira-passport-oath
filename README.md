@@ -7,7 +7,8 @@
 Here a tutorial for getting the required oauth keys and generating the Private key: 
 https://developer.atlassian.com/server/jira/platform/oauth/#step-1-configure-jira
 
-This example simulates a nodejs client retrieving JIRA projects via Oauth.  In this example express server is running on port 9991.
+This example simulates a nodejs client retrieving JIRA user's account via Oauth.  
+In this example express server is running on port 3005.
 
 ## Pre-requisites
 * Generate an RSA public/private key pair
