@@ -1,4 +1,4 @@
-# Nodejs example of Jira OAuth using Passport
+# Nodejs Express app example of Jira OAuth using Passport
 
 ## Libraries
 * [passport](http://www.passportjs.org/)
