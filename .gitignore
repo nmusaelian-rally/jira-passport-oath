@@ -88,4 +88,6 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# source of the underlying library: passport-atlassian-oauth
+lib/ 
 # End of https://www.gitignore.io/api/node
